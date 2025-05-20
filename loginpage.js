@@ -23,6 +23,6 @@
             
             if (username==="russian" &&password==="6000") {
                 // Redirect to welcome page
-                window.location.href = "cse_aiml.html";
+                window.location.href = "gorilla-middle-finger-bob-pitchford-bristol-zoo-1.jpg";
             }
         });
